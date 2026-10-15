@@ -1,6 +1,22 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>QuizArena – A live quiz tournament web application with real-time quiz features.<br><br>👯 I’m looking to collaborate on<br>Web development projects using PHP, JavaScript, MongoDB, and MySQL.<br><br>🤝 I’m looking for help with<br>Backend optimization, deployment, and improving UI/UX.<br><br>🌱 I’m currently learning<br>Java Full Stack Development, PHP, MongoDB, and Android Development.<br><br>💬 Ask me about<br>PHP, Java, Web Development, QuizArena Project, and College Projects.<br><br>⚡ Fun fact<br>I enjoy building real projects and learning by creating apps from scratch.
+🔭 **I’m currently working on**  
+Iknoor Bharat News – A multilingual news platform, and QuizArena – A live quiz tournament web application. Also exploring AI-powered applications and real-world software solutions.
+
+👯 **I’m looking to collaborate on**  
+Full Stack Web Development, MERN Stack, AI-powered applications, Android Development, and innovative software projects.
+
+🤝 **I’m looking for help with**  
+Backend architecture, API optimization, scalable application development, AI integration, and cloud deployment.
+
+🌱 **I’m currently learning**  
+Advanced MERN Stack, Java Full Stack Development, Python with AI, Machine Learning, Generative AI, and modern application development.
+
+💬 **Ask me about**  
+React.js, JavaScript, Node.js, Express.js, MongoDB, MySQL, Java, Spring Boot, Python, Android Development, and AI Integration.
+
+⚡ **Fun fact**  
+I love turning ideas into real-world applications, exploring new technologies, and building solutions that solve practical problems.
 
 
 ## 🌐 Socials:
